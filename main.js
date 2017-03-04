@@ -12,7 +12,8 @@ function refresh(f) {
 
 var main = function(){
   gmail = new Gmail();
-  console.log('Hello,', gmail.get.user_email())
+  console.log("Hello Employer, please take a look at here. Then you will find emails visible here.");
+  console.log(gmail.get.visible_emails());
 }
 
 
