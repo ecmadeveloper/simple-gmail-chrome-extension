@@ -1,0 +1,11 @@
+div#gmail-chrome-extension-container {
+	width: 200px;
+	height: 500px;
+	display: block;
+	position: fixed;
+	right: 0;
+	top: 0;
+	background: white;
+	z-index: 999;}
+	div#gmail-chrome-extension-container div.gmail-chrome-extension-inner-container {
+		position: relative;}
